@@ -1,0 +1,26 @@
+
+#nav-home{
+    width: 70px;
+    vertical-align: middle;
+}
+#nav-link{
+    text-decoration: none;
+    color: #b9d1c8;
+    padding-left: 180px;
+    font-weight: bolder;
+    font-size: 22px;
+}
+#nav-link-select{
+    text-decoration: none;
+    color: #ba494b;
+    padding-left: 180px;
+    font-weight: bolder;
+    font-size: 22px;
+} 
+#img-1{
+    opacity: 1;
+}
+#img-1:hover{
+    opacity: 0;
+    transition: all .5s ease;
+}
